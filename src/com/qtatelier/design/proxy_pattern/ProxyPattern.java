@@ -13,6 +13,8 @@ import com.qtatelier.design.proxy_pattern.static_proxy.World;
  */
 public class ProxyPattern {
     public static void main(String [] args){
+        //静态代理
+
        //创建目标对象(被代理对象)Dio出现
         Dio dio = new Dio();
 
