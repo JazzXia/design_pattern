@@ -11,7 +11,6 @@ import com.qtatelier.design.factory_pattern.factory_Method_pattern.pizzastore.or
  */
 public class PizzaStore {
     public static void main(String [] args){
-        //使用简单工厂模式
         new BJOrderPizza();
         System.out.println("退出程序~~~");
     }
